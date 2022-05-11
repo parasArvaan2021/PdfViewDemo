@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PdfViewDemo</string>
+    <string name="pdf_page_counter">%d / %d</string>
+</resources>
