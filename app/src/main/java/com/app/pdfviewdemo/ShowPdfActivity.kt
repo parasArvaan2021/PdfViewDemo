@@ -14,7 +14,6 @@ import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
 import android.widget.FrameLayout
-import android.widget.ProgressBar
 import android.widget.TextView
 import android.widget.Toast
 import androidx.activity.result.contract.ActivityResultContracts
